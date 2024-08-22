@@ -1,0 +1,11 @@
+..\obj\croutine.o: ..\LIB\FreeRTOS_Lib\croutine.c
+..\obj\croutine.o: ..\LIB\FreeRTOS_Lib\include\FreeRTOS.h
+..\obj\croutine.o: C:\Keil_v5\ARM\ARMv5\Bin\..\include\stddef.h
+..\obj\croutine.o: ..\LIB\FreeRTOS_Lib\include\projdefs.h
+..\obj\croutine.o: ..\USER\FreeRTOSConfig.h
+..\obj\croutine.o: ..\LIB\FreeRTOS_Lib\include\portable.h
+..\obj\croutine.o: ..\LIB\FreeRTOS_Lib\portable\Keil\MDK-ARM\portmacro.h
+..\obj\croutine.o: ..\LIB\FreeRTOS_Lib\include\mpu_wrappers.h
+..\obj\croutine.o: ..\LIB\FreeRTOS_Lib\include\task.h
+..\obj\croutine.o: ..\LIB\FreeRTOS_Lib\include\list.h
+..\obj\croutine.o: ..\LIB\FreeRTOS_Lib\include\croutine.h

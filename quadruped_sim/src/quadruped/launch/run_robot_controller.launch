@@ -1,0 +1,6 @@
+<launch>
+
+    <!-- Keyboard -->
+    <include file="$(find quadruped_keyboard)/launch/ramped_keyboard.launch" />
+
+</launch>

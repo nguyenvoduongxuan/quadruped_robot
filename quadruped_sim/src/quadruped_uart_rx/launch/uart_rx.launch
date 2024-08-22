@@ -1,0 +1,8 @@
+<launch>
+
+    <!-- UART_RX node -->
+    <node pkg="quadruped_uart_rx" type="uart_rx"
+        name="UART_RX" output="screen"/>
+
+</launch>
+

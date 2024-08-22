@@ -1,0 +1,8 @@
+<launch>
+
+    <!-- Ramped Keyboard node -->
+    <node pkg="quadruped_uart_tx" type="uart_tx"
+        name="UART_TX" output="screen"/>
+
+</launch>
+

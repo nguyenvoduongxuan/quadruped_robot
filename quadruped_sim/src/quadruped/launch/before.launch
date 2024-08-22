@@ -1,0 +1,6 @@
+<launch>
+
+    <!-- UART -->
+    <include file="$(find before_start_everything)/launch/bse.launch" />
+
+</launch>

@@ -1,0 +1,8 @@
+<launch>
+
+    <!-- Ramped Keyboard node -->
+    <node pkg="before_start_everything" type="get_usb.sh"
+        name="BSE" output="screen"/>
+
+</launch>
+

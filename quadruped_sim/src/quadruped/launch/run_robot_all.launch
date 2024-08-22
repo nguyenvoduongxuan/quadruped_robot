@@ -1,0 +1,21 @@
+<launch>
+
+    <!-- Set up UART -->
+    <include file="$(find before_start_everything)/launch/bse.launch" />
+
+    <!-- Gazebo Simulation -->
+    <include file="$(find quadruped_gazebo)/launch/simulation.launch" />
+
+    <!-- Robot Controller -->
+    <include file="$(find quadruped_controller)/launch/robot_controller.launch"/>
+
+    <!-- Robot Controller -->
+    <!--include file="$(find quadruped_keyboard)/launch/ramped_keyboard.launch"/-->
+
+    <!-- UART RECEIVE -->
+    <include file="$(find quadruped_uart_rx)/launch/uart_rx.launch" />
+
+    <!-- UART SEND -->
+    <include file="$(find quadruped_uart_tx)/launch/uart_tx.launch" />
+
+</launch>

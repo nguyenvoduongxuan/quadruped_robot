@@ -1,0 +1,11 @@
+..\obj\heap_2.o: ..\LIB\FreeRTOS_Lib\portable\MemMang\heap_2.c
+..\obj\heap_2.o: C:\Keil_v5\ARM\ARMv5\Bin\..\include\stdlib.h
+..\obj\heap_2.o: ..\LIB\FreeRTOS_Lib\include\FreeRTOS.h
+..\obj\heap_2.o: C:\Keil_v5\ARM\ARMv5\Bin\..\include\stddef.h
+..\obj\heap_2.o: ..\LIB\FreeRTOS_Lib\include\projdefs.h
+..\obj\heap_2.o: ..\USER\FreeRTOSConfig.h
+..\obj\heap_2.o: ..\LIB\FreeRTOS_Lib\include\portable.h
+..\obj\heap_2.o: ..\LIB\FreeRTOS_Lib\portable\Keil\MDK-ARM\portmacro.h
+..\obj\heap_2.o: ..\LIB\FreeRTOS_Lib\include\mpu_wrappers.h
+..\obj\heap_2.o: ..\LIB\FreeRTOS_Lib\include\task.h
+..\obj\heap_2.o: ..\LIB\FreeRTOS_Lib\include\list.h

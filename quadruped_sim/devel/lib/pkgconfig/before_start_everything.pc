@@ -1,0 +1,8 @@
+prefix=/home/jetson/quadruped_sim/devel
+
+Name: before_start_everything
+Description: Description of before_start_everything
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lbefore_start_everything
+Requires: 

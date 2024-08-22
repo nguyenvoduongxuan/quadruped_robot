@@ -1,0 +1,9 @@
+..\obj\mpu6050_6axis_motionapps20.o: ..\LIB\IMU_Lib\DMP\MPU6050_6Axis_MotionApps20.c
+..\obj\mpu6050_6axis_motionapps20.o: ..\LIB\IMU_Lib\DMP\helper_3dmath.h
+..\obj\mpu6050_6axis_motionapps20.o: C:\Keil_v5\ARM\ARMv5\Bin\..\include\math.h
+..\obj\mpu6050_6axis_motionapps20.o: C:\Keil_v5\ARM\ARMv5\Bin\..\include\stdint.h
+..\obj\mpu6050_6axis_motionapps20.o: ..\LIB\IMU_Lib\DMP\MPU6050_6Axis_MotionApps20.h
+..\obj\mpu6050_6axis_motionapps20.o: C:\Keil_v5\ARM\ARMv5\Bin\..\include\stdbool.h
+..\obj\mpu6050_6axis_motionapps20.o: ..\LIB\IMU_Lib\DMP\MPU6050.h
+..\obj\mpu6050_6axis_motionapps20.o: C:\Keil_v5\ARM\ARMv5\Bin\..\include\string.h
+..\obj\mpu6050_6axis_motionapps20.o: C:\Keil_v5\ARM\ARMv5\Bin\..\include\stdio.h

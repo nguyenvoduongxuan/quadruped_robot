@@ -1,0 +1,8 @@
+<launch>
+
+    <!-- Ramped Keyboard node -->
+    <node pkg="quadruped_keyboard" type="ramped_keyboard"
+        name="RAMPED_KEYBOARD" output="screen"/>
+
+</launch>
+

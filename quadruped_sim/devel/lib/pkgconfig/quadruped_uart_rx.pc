@@ -1,0 +1,8 @@
+prefix=/home/jetson/quadruped_sim/devel
+
+Name: quadruped_uart_rx
+Description: Description of quadruped_uart_rx
+Version: 1.0.0
+Cflags: -I/home/jetson/quadruped_sim/src/quadruped_uart_rx/include
+Libs: -L${prefix}/lib -lquadruped_uart_rx
+Requires: roscpp

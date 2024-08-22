@@ -1,0 +1,12 @@
+..\obj\queue.o: ..\LIB\FreeRTOS_Lib\queue.c
+..\obj\queue.o: C:\Keil_v5\ARM\ARMv5\Bin\..\include\stdlib.h
+..\obj\queue.o: C:\Keil_v5\ARM\ARMv5\Bin\..\include\string.h
+..\obj\queue.o: ..\LIB\FreeRTOS_Lib\include\FreeRTOS.h
+..\obj\queue.o: C:\Keil_v5\ARM\ARMv5\Bin\..\include\stddef.h
+..\obj\queue.o: ..\LIB\FreeRTOS_Lib\include\projdefs.h
+..\obj\queue.o: ..\USER\FreeRTOSConfig.h
+..\obj\queue.o: ..\LIB\FreeRTOS_Lib\include\portable.h
+..\obj\queue.o: ..\LIB\FreeRTOS_Lib\portable\Keil\MDK-ARM\portmacro.h
+..\obj\queue.o: ..\LIB\FreeRTOS_Lib\include\mpu_wrappers.h
+..\obj\queue.o: ..\LIB\FreeRTOS_Lib\include\task.h
+..\obj\queue.o: ..\LIB\FreeRTOS_Lib\include\list.h

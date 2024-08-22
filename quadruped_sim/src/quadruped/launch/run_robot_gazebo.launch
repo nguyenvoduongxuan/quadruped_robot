@@ -1,0 +1,9 @@
+<launch>
+
+    <!-- Gazebo Simulation -->
+    <include file="$(find quadruped_gazebo)/launch/simulation.launch" />
+
+    <!-- Robot Controller -->
+    <include file="$(find quadruped_controller)/launch/robot_controller.launch"/>
+
+</launch>

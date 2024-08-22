@@ -1,0 +1,8 @@
+prefix=/home/jetson/quadruped_sim/devel
+
+Name: quadruped_keyboard
+Description: Description of quadruped_keyboard
+Version: 1.0.0
+Cflags: -I/home/jetson/quadruped_sim/src/quadruped_keyboard/include
+Libs: -L${prefix}/lib -lquadruped_keyboard
+Requires: roscpp

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>before_start_everything</name>
+  <version>1.0.0</version>
+  <description>The before_start_everything package</description>
+  <maintainer email="nguyenvdx@gmail.com">nguyenvdx</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>

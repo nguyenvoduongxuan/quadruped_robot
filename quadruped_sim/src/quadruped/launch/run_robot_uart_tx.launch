@@ -1,0 +1,6 @@
+<launch>
+
+    <!-- UART TX -->
+    <include file="$(find quadruped_uart_tx)/launch/uart_tx.launch" />
+
+</launch>

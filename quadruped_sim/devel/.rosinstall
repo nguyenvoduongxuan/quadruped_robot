@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jetson/quadruped_sim/devel/setup.sh
